@@ -1,5 +1,7 @@
 # Blockchain in Go
 
+TODO: reduce the use of global variables so we could run multiple instance inside one process.
+
 A blockchain implementation in Go, as described in these articles:
 
 1. [Basic Prototype](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
